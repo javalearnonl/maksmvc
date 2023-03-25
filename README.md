@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at my GitHub profile
 
-- 📫 How to reach me **maksymovychmail.@gmail.com**
+- 📫 How to reach me **maksymovychmail@gmail.com**
 
 
 <p align="left">
