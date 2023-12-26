@@ -7,11 +7,10 @@
 
 - 🌱 I’m currently learning **Java, Spring.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/maksmvc](https://github.com/maksmvc)
 
 - 💬 Ask me about **vue**
 
-- 📫 How to reach me **maksymovychmail@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
